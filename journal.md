@@ -92,3 +92,9 @@ time to jit: 0:01:25.692798 time to train: 0:27:07.809092
 
 ![](videos/eed45565.gif)
 
+8a21018a
+num_steps:  0 eval/episode_reward:  0.040621825 eval/episode_reward_std:  0.097854026
+num_steps:  30310400 eval/episode_reward:  5.1783323 eval/episode_reward_std:  16.438326
+num_steps:  60620800 eval/episode_reward:  1.5054538 eval/episode_reward_std:  7.3795896
+time to jit: 0:01:26.443080 time to train: 0:27:10.533919
+![](videos/8a21018a.gif)
