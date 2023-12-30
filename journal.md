@@ -30,7 +30,7 @@ Welcome to my Reinforcement Learning Development Journal. Here, I document my jo
 - For animated visuals (GIFs/MP4s), use: `![Alt text](/videos/d200d204.mp4)`
 
 #### Analysis
-![Alt text](https://github.com/andrei-herdt/andrei-herdt.github.io/blob/main/videos/d200d204.gif)
+![Alt text](https://github.com/andrei-herdt/andrei-herdt.github.io/blob/915966c822b07d57e86910fa5351e12a7baffd24/videos/d200d204.gif)
 - Provide your analysis of the results. What did you learn? What worked and what didn't?
 
 ---
