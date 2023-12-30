@@ -37,7 +37,6 @@ time to jit: 0:00:47.062260 time to train: 0:27:53.307440
 
 d200d204
 
-![](videos/d200d204.gif)
 Decrease batch_size, increase torque penalty. Time to JIT: 0:00:46.774209. Time to train: 0:25:50.067106.
 
 | num_steps  | eval/episode_reward | eval/episode_reward_std |
@@ -46,6 +45,7 @@ Decrease batch_size, increase torque penalty. Time to JIT: 0:00:46.774209. Time 
 | 30310400   | 6.013794            | 7.0553393               |
 | 60620800   | 9.640033            | 9.364621                |
 
+![](videos/d200d204.gif)
 
 d24e43d7
 increase feet_air_time
