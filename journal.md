@@ -84,4 +84,11 @@ time to jit: 0:01:27.374001 time to train: 0:27:12.238757
 
 ![](videos/de43f5f8.gif)
 
+eed45565 increase action rate penalty
+num_steps:  0 eval/episode_reward:  0.103766695 eval/episode_reward_std:  0.21061304
+num_steps:  30310400 eval/episode_reward:  13.177053 eval/episode_reward_std:  21.920616
+num_steps:  60620800 eval/episode_reward:  12.000593 eval/episode_reward_std:  19.584045
+time to jit: 0:01:25.692798 time to train: 0:27:07.809092
+
+![](videos/eed45565.gif)
 
