@@ -82,4 +82,6 @@ num_steps:  30310400 eval/episode_reward:  20.743465 eval/episode_reward_std:  2
 num_steps:  60620800 eval/episode_reward:  21.331964 eval/episode_reward_std:  23.62141
 time to jit: 0:01:27.374001 time to train: 0:27:12.238757
 
+![](videos/de43f5f8.gif)
+
 
