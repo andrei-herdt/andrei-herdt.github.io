@@ -35,7 +35,7 @@ Time to JIT: 0:00:46.034939. Time to train: 0:25:47.985451.
 
 ---
 
-ff9ffb95f64a821fc80553d6aa9e756ca97ce7db
+https://github.com/andrei-herdt/playground/commit/ff9ffb95f64a821fc80553d6aa9e756ca97ce7db
 Increase batch_size
 Time to JIT: 0:00:47.062260. Time to train: 0:27:53.307440.
 
@@ -48,7 +48,7 @@ Time to JIT: 0:00:47.062260. Time to train: 0:27:53.307440.
 
 ---
 
-d200d204
+https://github.com/andrei-herdt/playground/commit/d200d204
 
 Decrease batch_size, increase torque penalty. Time to JIT: 0:00:46.774209. Time to train: 0:25:50.067106.
 
