@@ -157,15 +157,12 @@ Time to JIT: 0:01:26.443080. Time to train: 0:27:10.533919.
 ![](videos/8a21018a.gif)
 
 
-num_steps:  0
-eval/episode_reward:  1.0489547
-eval/episode_reward_std:  1.964287
-num_steps:  30310400
-eval/episode_reward:  117.33095
-eval/episode_reward_std:  120.06268
-num_steps:  60620800
-eval/episode_reward:  157.12668
-eval/episode_reward_std:  123.28307
-time to jit: 0:01:25.823749
-time to train: 0:27:15.119625
+Time to JIT: 0:01:25.823749. Time to train: 0:27:15.119625.
+
+| num_steps  | eval/episode_reward | eval/episode_reward_std |
+|------------|---------------------|-------------------------|
+| 0          | 1.0489547           | 1.964287                |
+| 30310400   | 117.33095           | 120.06268               |
+| 60620800   | 157.12668           | 123.28307               |
+
 ![](videos/836c8228.gif)
