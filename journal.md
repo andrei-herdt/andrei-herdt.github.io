@@ -27,7 +27,7 @@ Welcome to my Reinforcement Learning Development Journal. Here, I document my jo
 
 #### Visualizations
 - Include plots or graphs here. Use Markdown image syntax: `![Alt text](url/to/image.png)`
-- For animated visuals (GIFs/MP4s), use: `![Alt text](url/to/animation.gif)`
+- For animated visuals (GIFs/MP4s), use: `![Alt text](/videos/d200d204.mp4)`
 
 #### Analysis
 - Provide your analysis of the results. What did you learn? What worked and what didn't?
