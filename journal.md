@@ -31,7 +31,7 @@ Welcome to my Reinforcement Learning Development Journal. Here, I document my jo
 
 #### Analysis
 ![Alt text](videos/d200d204.gif)
-- Provide your analysis of the results. What did you learn? What worked and what didn't?
+- Provide your analysis of the results. What did you learn? What worked and what didnt?
 
 ---
 
