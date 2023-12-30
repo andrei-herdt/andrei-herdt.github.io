@@ -36,7 +36,7 @@ time to jit: 0:00:47.062260 time to train: 0:27:53.307440
 
 
 d200d204
-![](videos/d200d204.mp4)
+![](videos/d200d204.gif)
 Experiment `d200d204`: Decrease batch_size, increase torque penalty. Time to JIT: 0:00:46.774209. Time to train: 0:25:50.067106.
 
 | num_steps  | eval/episode_reward | eval/episode_reward_std |
