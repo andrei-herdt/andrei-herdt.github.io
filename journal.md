@@ -62,7 +62,7 @@ Decrease batch_size, increase torque penalty. Time to JIT: 0:00:46.774209. Time 
 
 ---
 
-d24e43d7
+https://github.com/andrei-herdt/playground/commit/d24e43d7
 
 Increase feet_air_time. Time to JIT: 0:00:47.117407. Time to train: 0:25:49.084794.
 
@@ -76,7 +76,7 @@ Increase feet_air_time. Time to JIT: 0:00:47.117407. Time to train: 0:25:49.0847
 
 ---
 
-70697c88
+https://github.com/andrei-herdt/playground/commit/70697c88
 
 Increase episode_length. Time to JIT: 0:01:29.635887. Time to train: 0:27:17.197335.
 
@@ -90,7 +90,7 @@ Increase episode_length. Time to JIT: 0:01:29.635887. Time to train: 0:27:17.197
 
 ---
 
-84a2f6a3
+https://github.com/andrei-herdt/playground/commit/84a2f6a3
 
 Increase torque penalty. Time to JIT: 0:01:29.584691. Time to train: 0:27:17.806234.
 
@@ -104,7 +104,7 @@ Increase torque penalty. Time to JIT: 0:01:29.584691. Time to train: 0:27:17.806
 
 ---
 
-42ee1b36
+https://github.com/andrei-herdt/playground/commit/42ee1b36
 
 Decrease torque penalty. Time to JIT: 0:01:28.993436. Time to train: 0:27:16.385898.
 
@@ -116,7 +116,7 @@ Decrease torque penalty. Time to JIT: 0:01:28.993436. Time to train: 0:27:16.385
 
 ---
 
-de43f5f8
+https://github.com/andrei-herdt/playground/commit/de43f5f8
 
 Remove randomisation. Time to JIT: 0:01:27.374001. Time to train: 0:27:12.238757.
 
@@ -130,7 +130,7 @@ Remove randomisation. Time to JIT: 0:01:27.374001. Time to train: 0:27:12.238757
 
 ---
 
-eed45565
+https://github.com/andrei-herdt/playground/commit/eed45565
 
 Increase action rate penalty. Time to JIT: 0:01:25.692798. Time to train: 0:27:07.809092.
 
@@ -144,7 +144,7 @@ Increase action rate penalty. Time to JIT: 0:01:25.692798. Time to train: 0:27:0
 
 ---
 
-8a21018a
+https://github.com/andrei-herdt/playground/commit/8a21018a
 
 Time to JIT: 0:01:26.443080. Time to train: 0:27:10.533919.
 
