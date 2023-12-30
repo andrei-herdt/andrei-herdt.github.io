@@ -46,6 +46,7 @@ Time to JIT: 0:00:47.062260. Time to train: 0:27:53.307440.
 | 65536000   | 9.442217            | 5.8058133               |
 
 
+---
 
 d200d204
 
@@ -59,6 +60,8 @@ Decrease batch_size, increase torque penalty. Time to JIT: 0:00:46.774209. Time 
 
 ![](videos/d200d204.gif)
 
+---
+
 d24e43d7
 
 Increase feet_air_time. Time to JIT: 0:00:47.117407. Time to train: 0:25:49.084794.
@@ -70,6 +73,8 @@ Increase feet_air_time. Time to JIT: 0:00:47.117407. Time to train: 0:25:49.0847
 | 60620800   | 13.843228           | 7.590749                |
 
 ![](videos/d24e43d7.gif)
+
+---
 
 70697c88
 
@@ -83,6 +88,8 @@ Increase episode_length. Time to JIT: 0:01:29.635887. Time to train: 0:27:17.197
 
 ![](videos/70697c88.gif)
 
+---
+
 84a2f6a3
 
 Increase torque penalty. Time to JIT: 0:01:29.584691. Time to train: 0:27:17.806234.
@@ -95,6 +102,8 @@ Increase torque penalty. Time to JIT: 0:01:29.584691. Time to train: 0:27:17.806
 
 ![](videos/84a2f6a37.gif)
 
+---
+
 42ee1b36
 
 Decrease torque penalty. Time to JIT: 0:01:28.993436. Time to train: 0:27:16.385898.
@@ -104,6 +113,8 @@ Decrease torque penalty. Time to JIT: 0:01:28.993436. Time to train: 0:27:16.385
 | 0          | 0.60416865          | 1.0367799               |
 | 30310400   | 9.292147            | 19.73348                |
 | 60620800   | 31.627762           | 28.004442               |
+
+---
 
 de43f5f8
 
@@ -117,6 +128,8 @@ Remove randomisation. Time to JIT: 0:01:27.374001. Time to train: 0:27:12.238757
 
 ![](videos/de43f5f8.gif)
 
+---
+
 eed45565
 
 Increase action rate penalty. Time to JIT: 0:01:25.692798. Time to train: 0:27:07.809092.
@@ -128,6 +141,8 @@ Increase action rate penalty. Time to JIT: 0:01:25.692798. Time to train: 0:27:0
 | 60620800   | 12.000593           | 19.584045               |
 
 ![](videos/eed45565.gif)
+
+---
 
 8a21018a
 
