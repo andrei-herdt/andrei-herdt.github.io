@@ -156,6 +156,7 @@ Time to JIT: 0:01:26.443080. Time to train: 0:27:10.533919.
 
 ![](videos/8a21018a.gif)
 
+---
 
 Time to JIT: 0:01:25.823749. Time to train: 0:27:15.119625.
 
