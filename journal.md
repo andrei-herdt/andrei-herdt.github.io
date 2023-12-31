@@ -168,8 +168,10 @@ Time to JIT: 0:01:25.823749. Time to train: 0:27:15.119625.
 
 ![](videos/836c8228.gif)
 
+---
 
 https://github.com/andrei-herdt/playground/commit/816e4453
+
 num_steps:  0
 eval/episode_reward:  0.9987528
 eval/episode_reward_std:  1.7944983
