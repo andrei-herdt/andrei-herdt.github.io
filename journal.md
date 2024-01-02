@@ -252,9 +252,5 @@ Time to JIT:
 
 ![](videos/cb99b39b.gif)
 
----
-
-![](videos/cb99b39b.gif)
-
 ### Comment: 
 Collision checking only active for feet
