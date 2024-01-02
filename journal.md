@@ -1,6 +1,7 @@
 # Reproducing results obtained with Isaac in Mujoco MJX
 
 [Target performance](https://leggedrobotics.github.io/legged_gym/)
+
 [Starting point](https://colab.research.google.com/github/google-deepmind/mujoco/blob/main/mjx/tutorial.ipynb)
 
 ## Experiment Log
