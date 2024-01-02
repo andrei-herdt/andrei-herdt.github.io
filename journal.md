@@ -252,6 +252,9 @@ Time to JIT:
 
 ![](videos/cb99b39b.gif)
 
+#### Comment: 
+Collision checking only active for feet
+
 ---
 
 [b8217ed](https://github.com/andrei-herdt/playground/commit/b8217ed)
@@ -264,5 +267,5 @@ Time to JIT:
 
 ![](videos/b8217ed.gif)
 
-### Comment: 
-Collision checking only active for feet
+#### Comment: 
+Still not certain why actions should be scaled that heavily...
