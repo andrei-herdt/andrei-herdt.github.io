@@ -1,15 +1,5 @@
 # Reinforcement Learning Development Journal
 
-## Introduction
-Welcome to my Reinforcement Learning Development Journal. Here, I document my journey, experiments, and learnings in the field of RL.
-
-### Goals
-- Briefly describe your goals or what you aim to achieve with your RL experiments.
-
-### Project Overview
-- Provide an overview of your project, including the problem you're trying to solve or the algorithms you're exploring.
-
----
 
 ## Experiment Log
 
@@ -35,7 +25,7 @@ Time to JIT: 0:00:46.034939. Time to train: 0:25:47.985451.
 
 ---
 
-https://github.com/andrei-herdt/playground/commit/ff9ffb95f64a821fc80553d6aa9e756ca97ce7db
+[ff9ffb95f64a821fc80553d6aa9e756ca97ce7db](https://github.com/andrei-herdt/playground/commit/ff9ffb95f64a821fc80553d6aa9e756ca97ce7db)
 Increase batch_size
 Time to JIT: 0:00:47.062260. Time to train: 0:27:53.307440.
 
@@ -48,7 +38,7 @@ Time to JIT: 0:00:47.062260. Time to train: 0:27:53.307440.
 
 ---
 
-https://github.com/andrei-herdt/playground/commit/d200d204
+[d200d204](https://github.com/andrei-herdt/playground/commit/d200d204)
 
 Decrease batch_size, increase torque penalty. Time to JIT: 0:00:46.774209. Time to train: 0:25:50.067106.
 
@@ -62,7 +52,7 @@ Decrease batch_size, increase torque penalty. Time to JIT: 0:00:46.774209. Time 
 
 ---
 
-https://github.com/andrei-herdt/playground/commit/d24e43d7
+[d24e43d7](https://github.com/andrei-herdt/playground/commit/d24e43d7)
 
 Increase feet_air_time. Time to JIT: 0:00:47.117407. Time to train: 0:25:49.084794.
 
@@ -76,7 +66,7 @@ Increase feet_air_time. Time to JIT: 0:00:47.117407. Time to train: 0:25:49.0847
 
 ---
 
-https://github.com/andrei-herdt/playground/commit/70697c88
+[70697c88](https://github.com/andrei-herdt/playground/commit/70697c88)
 
 Increase episode_length. Time to JIT: 0:01:29.635887. Time to train: 0:27:17.197335.
 
@@ -90,7 +80,7 @@ Increase episode_length. Time to JIT: 0:01:29.635887. Time to train: 0:27:17.197
 
 ---
 
-https://github.com/andrei-herdt/playground/commit/84a2f6a3
+[84a2f6a3](https://github.com/andrei-herdt/playground/commit/84a2f6a3)
 
 Increase torque penalty. Time to JIT: 0:01:29.584691. Time to train: 0:27:17.806234.
 
@@ -104,7 +94,7 @@ Increase torque penalty. Time to JIT: 0:01:29.584691. Time to train: 0:27:17.806
 
 ---
 
-https://github.com/andrei-herdt/playground/commit/42ee1b36
+[42ee1b36](https://github.com/andrei-herdt/playground/commit/42ee1b36)
 
 Decrease torque penalty. Time to JIT: 0:01:28.993436. Time to train: 0:27:16.385898.
 
@@ -116,7 +106,7 @@ Decrease torque penalty. Time to JIT: 0:01:28.993436. Time to train: 0:27:16.385
 
 ---
 
-https://github.com/andrei-herdt/playground/commit/de43f5f8
+[de43f5f8](https://github.com/andrei-herdt/playground/commit/de43f5f8)
 
 Remove randomisation. Time to JIT: 0:01:27.374001. Time to train: 0:27:12.238757.
 
@@ -130,7 +120,7 @@ Remove randomisation. Time to JIT: 0:01:27.374001. Time to train: 0:27:12.238757
 
 ---
 
-https://github.com/andrei-herdt/playground/commit/eed45565
+[eed45565](https://github.com/andrei-herdt/playground/commit/eed45565)
 
 Increase action rate penalty. Time to JIT: 0:01:25.692798. Time to train: 0:27:07.809092.
 
@@ -144,7 +134,7 @@ Increase action rate penalty. Time to JIT: 0:01:25.692798. Time to train: 0:27:0
 
 ---
 
-https://github.com/andrei-herdt/playground/commit/8a21018a
+[8a21018a](https://github.com/andrei-herdt/playground/commit/8a21018a)
 
 Time to JIT: 0:01:26.443080. Time to train: 0:27:10.533919.
 
@@ -170,7 +160,7 @@ Time to JIT: 0:01:25.823749. Time to train: 0:27:15.119625.
 
 ---
 
-https://github.com/andrei-herdt/playground/commit/816e4453
+[816e4453](https://github.com/andrei-herdt/playground/commit/816e4453)
 
 num_steps:  0 eval/episode_reward:  0.9987528 eval/episode_reward_std:  1.7944983
 num_steps:  30310400 eval/episode_reward:  161.31096 eval/episode_reward_std:  138.0662
@@ -181,7 +171,7 @@ time to jit: 0:01:25.681162 time to train: 0:27:14.246793
 
 ---
 
-https://github.com/andrei-herdt/playground/commit/7ccce241
+[7ccce241](https://github.com/andrei-herdt/playground/commit/7ccce241)
 
 num_steps:  0 eval/episode_reward:  0.0881857 eval/episode_reward_std:  0.11955748
 num_steps:  30310400 eval/episode_reward:  26.643467 eval/episode_reward_std:  38.780533
@@ -192,7 +182,7 @@ time to jit: 0:01:25.550758
 
 ---
 
-https://github.com/andrei-herdt/playground/commit/c49259b7
+[c49259b7](https://github.com/andrei-herdt/playground/commit/c49259b7)
 
 num_steps:  0 eval/episode_reward:  0.12857331 eval/episode_reward_std:  0.20599352
 num_steps:  30310400 eval/episode_reward:  126.936935 eval/episode_reward_std:  103.64848
