@@ -192,7 +192,7 @@ time to jit: 0:01:25.550758
 
 ---
 
-[commit](https://github.com/andrei-herdt/playground/commit/c49259b7)
+https://github.com/andrei-herdt/playground/commit/c49259b7
 
 num_steps:  0 eval/episode_reward:  0.12857331 eval/episode_reward_std:  0.20599352
 num_steps:  30310400 eval/episode_reward:  126.936935 eval/episode_reward_std:  103.64848
