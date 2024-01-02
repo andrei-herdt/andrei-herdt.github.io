@@ -4,6 +4,11 @@
 
 [Starting point](https://colab.research.google.com/github/google-deepmind/mujoco/blob/main/mjx/tutorial.ipynb)
 
+
+TODO:
+- [ ] Examine individual episodes
+- [ ] Plot learning curve
+
 ## Experiment Log
 
 num_minibatches = 4
