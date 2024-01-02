@@ -1,6 +1,7 @@
 # Reproducing results obtained with Isaac in Mujoco MJX
 
-[original](https://leggedrobotics.github.io/legged_gym/)
+[Target performance](https://leggedrobotics.github.io/legged_gym/)
+[Starting point](https://colab.research.google.com/github/google-deepmind/mujoco/blob/main/mjx/tutorial.ipynb)
 
 ## Experiment Log
 
@@ -205,7 +206,7 @@ time to jit: 0:01:26.449817 time to train: 0:26:45.335102
 
 ---
 
-[cb99b39b](https://github.com/andrei-herdt/playground/commit/cb99b39b)
+[2cca42d](https://github.com/andrei-herdt/playground/commit/2cca42d)
 
 num_steps:  0 eval/episode_reward:  0.000100479345 eval/episode_reward_std:  0.00057757826
 num_steps:  30310400 eval/episode_reward:  1.2849943e-05 eval/episode_reward_std:  0.0001031194
@@ -213,3 +214,6 @@ num_steps:  60620800 eval/episode_reward:  0.0 eval/episode_reward_std:  0.0
 time to jit: 0:01:26.321917 time to train: 0:26:54.230981
 
 ![](videos/cb99b39b.gif)
+
+### Comment: 
+Collision checking only active for feet
