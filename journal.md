@@ -206,6 +206,25 @@ time to jit: 0:01:26.449817 time to train: 0:26:45.335102
 
 ---
 
+
+[729d608](https://github.com/andrei-herdt/playground/commit/729d608)
+
+num_steps:  0
+eval/episode_reward:  0.0006557503
+eval/episode_reward_std:  0.0021130515
+num_steps:  30310400
+eval/episode_reward:  21.972258
+eval/episode_reward_std:  22.943686
+num_steps:  60620800
+eval/episode_reward:  37.672752
+eval/episode_reward_std:  30.960518
+time to jit: 0:01:26.286406
+time to train: 0:26:54.013191
+
+![](videos/729d608.gif)
+
+---
+
 [2cca42d](https://github.com/andrei-herdt/playground/commit/2cca42d)
 
 num_steps:  0 eval/episode_reward:  0.000100479345 eval/episode_reward_std:  0.00057757826
