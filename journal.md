@@ -158,11 +158,11 @@ Time to JIT: 0:01:26.443080. Time to train: 0:27:10.533919.
 
 Time to JIT: 0:01:25.823749. Time to train: 0:27:15.119625.
 
-| num_steps  | eval/episode_reward | eval/episode_reward_std |
-|------------|---------------------|-------------------------|
-| 0          | 1.0489547           | 1.964287                |
-| 30310400   | 117.33095           | 120.06268               |
-| 60620800   | 157.12668           | 123.28307               |
+| num_steps | eval/episode_reward | eval/episode_reward_std |
+|-----------|---------------------|-------------------------|
+| 0         | 1.0489547           | 1.964287                |
+| 30310400  | 117.33095           | 120.06268               |
+| 60620800  | 157.12668           | 123.28307               |
 
 ![](videos/836c8228.gif)
 
@@ -170,10 +170,13 @@ Time to JIT: 0:01:25.823749. Time to train: 0:27:15.119625.
 
 [816e4453](https://github.com/andrei-herdt/playground/commit/816e4453)
 
-num_steps:  0 eval/episode_reward:  0.9987528 eval/episode_reward_std:  1.7944983
-num_steps:  30310400 eval/episode_reward:  161.31096 eval/episode_reward_std:  138.0662
-num_steps:  60620800 eval/episode_reward:  184.12999 eval/episode_reward_std:  119.49414
-time to jit: 0:01:25.681162 time to train: 0:27:14.246793
+| num_steps | eval/episode_reward | eval/episode_reward_std |
+|-----------|---------------------|-------------------------|
+| 0         | 0.9987528           | 1.7944983               |
+| 30310400  | 161.31096           | 138.0662                |
+| 60620800  | 184.12999           | 119.49414               |
+
+Time to JIT: 0:01:25.681162. Time to train: 0:27:14.246793.
 
 ![](videos/816e4453.gif)
 
@@ -181,10 +184,13 @@ time to jit: 0:01:25.681162 time to train: 0:27:14.246793
 
 [7ccce241](https://github.com/andrei-herdt/playground/commit/7ccce241)
 
-num_steps:  0 eval/episode_reward:  0.0881857 eval/episode_reward_std:  0.11955748
-num_steps:  30310400 eval/episode_reward:  26.643467 eval/episode_reward_std:  38.780533
-num_steps:  60620800 eval/episode_reward:  39.717873 eval/episode_reward_std:  41.386353
-time to jit: 0:01:25.550758
+| num_steps | eval/episode_reward | eval/episode_reward_std |
+|-----------|---------------------|-------------------------|
+| 0         | 0.0881857           | 0.11955748              |
+| 30310400  | 26.643467           | 38.780533               |
+| 60620800  | 39.717873           | 41.386353               |
+
+Time to JIT: 0:01:25.550758.
 
 ![](videos/7ccce241.gif)
 
@@ -192,10 +198,13 @@ time to jit: 0:01:25.550758
 
 [c49259b7](https://github.com/andrei-herdt/playground/commit/c49259b7)
 
-num_steps:  0 eval/episode_reward:  0.12857331 eval/episode_reward_std:  0.20599352
-num_steps:  30310400 eval/episode_reward:  126.936935 eval/episode_reward_std:  103.64848
-num_steps:  60620800 eval/episode_reward:  108.58201 eval/episode_reward_std:  97.783
-time to jit: 0:01:26.454457 time to train: 0:26:44.189723
+| num_steps | eval/episode_reward | eval/episode_reward_std |
+|-----------|---------------------|-------------------------|
+| 0         | 0.12857331          | 0.20599352              |
+| 30310400  | 126.936935          | 103.64848               |
+| 60620800  | 108.58201           | 97.783                  |
+
+Time to JIT: 0:01:26.454457. Time to train: 0:26:44.189723.
 
 ![](videos/c49259b7.gif)
 
@@ -203,29 +212,27 @@ time to jit: 0:01:26.454457 time to train: 0:26:44.189723
 
 [2b196748](https://github.com/andrei-herdt/playground/commit/2b196748)
 
-num_steps:  0 eval/episode_reward:  0.00040321174 eval/episode_reward_std:  0.0016438545
-num_steps:  30310400 eval/episode_reward:  28.750546 eval/episode_reward_std:  25.025003
-num_steps:  60620800 eval/episode_reward:  42.257988 eval/episode_reward_std:  30.756683
-time to jit: 0:01:26.449817 time to train: 0:26:45.335102
+| num_steps | eval/episode_reward | eval/episode_reward_std |
+|-----------|---------------------|-------------------------|
+| 0         | 0.00040321174       | 0.0016438545            |
+| 30310400  | 28.750546           | 25.025003               |
+| 60620800  | 42.257988           | 30.756683               |
+
+Time to JIT: 0:01:26.449817. Time to train: 0:26:45.335102.
 
 ![](videos/2b196784.gif)
 
 ---
 
-
 [729d608](https://github.com/andrei-herdt/playground/commit/729d608)
 
-num_steps:  0
-eval/episode_reward:  0.0006557503
-eval/episode_reward_std:  0.0021130515
-num_steps:  30310400
-eval/episode_reward:  21.972258
-eval/episode_reward_std:  22.943686
-num_steps:  60620800
-eval/episode_reward:  37.672752
-eval/episode_reward_std:  30.960518
-time to jit: 0:01:26.286406
-time to train: 0:26:54.013191
+| num_steps | eval/episode_reward | eval/episode_reward_std |
+|-----------|---------------------|-------------------------|
+| 0         | 0.0006557503        | 0.0021130515            |
+| 30310400  | 21.972258           | 22.943686               |
+| 60620800  | 37.672752           | 30.960518               |
+
+Time to JIT: 0:01:26.286406. Time to train: 0:26:54.013191.
 
 ![](videos/729d608.gif)
 
@@ -233,10 +240,19 @@ time to train: 0:26:54.013191
 
 [2cca42d](https://github.com/andrei-herdt/playground/commit/2cca42d)
 
-num_steps:  0 eval/episode_reward:  0.000100479345 eval/episode_reward_std:  0.00057757826
-num_steps:  30310400 eval/episode_reward:  1.2849943e-05 eval/episode_reward_std:  0.0001031194
-num_steps:  60620800 eval/episode_reward:  0.0 eval/episode_reward_std:  0.0
-time to jit: 0:01:26.321917 time to train: 0:26:54.230981
+| num_steps | eval/episode_reward | eval/episode_reward_std |
+|-----------|---------------------|-------------------------|
+| 0         | 0.000100479345      | 0.00057757826           |
+| 30310400  | 1.2849943e-05       | 0.0001031194            |
+| 60620800  | 0.0                 | 0.0                     |
+
+Time to JIT: 
+
+0:01:26.321917. Time to train: 0:26:54.230981.
+
+![](videos/cb99b39b.gif)
+
+---
 
 ![](videos/cb99b39b.gif)
 
