@@ -252,5 +252,17 @@ Time to JIT:
 
 ![](videos/cb99b39b.gif)
 
+---
+
+[b8217ed](https://github.com/andrei-herdt/playground/commit/b8217ed)
+
+| times                      |   num_steps |       reward |   reward_std |
+|:---------------------------|------------:|-------------:|-------------:|
+| 2024-01-02 17:06:18.338097 |           0 |  0.000428819 |   0.00168771 |
+| 2024-01-02 17:19:54.277268 |    30310400 | 27.4926      |  28.3196     |
+| 2024-01-02 17:33:12.422510 |    60620800 | 21.53        |  22.3521     |
+
+![](videos/b8217ed.gif)
+
 ### Comment: 
 Collision checking only active for feet
