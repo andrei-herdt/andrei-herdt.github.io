@@ -267,5 +267,11 @@ Collision checking only active for feet
 
 ![](videos/b8217ed.gif)
 
+---
+
+[c10aab4](https://github.com/andrei-herdt/playground/commit/c10aab4)
+
+![](videos/c10aab4.gif)
+
 #### Comment: 
 Still not certain why actions should be scaled that heavily...
