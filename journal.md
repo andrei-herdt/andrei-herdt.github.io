@@ -1,5 +1,6 @@
-# Reinforcement Learning Development Journal
+# Reproducing results obtained with Isaac in Mujoco MJX
 
+[original](https://leggedrobotics.github.io/legged_gym/)
 
 ## Experiment Log
 
