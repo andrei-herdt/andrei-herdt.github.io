@@ -190,15 +190,18 @@ time to train: 0:27:14.246793
 
 https://github.com/andrei-herdt/playground/commit/816e4453
 
-num_steps:  0
-eval/episode_reward:  0.0881857
-eval/episode_reward_std:  0.11955748
-num_steps:  30310400
-eval/episode_reward:  26.643467
-eval/episode_reward_std:  38.780533
-num_steps:  60620800
-eval/episode_reward:  39.717873
-eval/episode_reward_std:  41.386353
+num_steps:  0 eval/episode_reward:  0.0881857 eval/episode_reward_std:  0.11955748
+num_steps:  30310400 eval/episode_reward:  26.643467 eval/episode_reward_std:  38.780533
+num_steps:  60620800 eval/episode_reward:  39.717873 eval/episode_reward_std:  41.386353
 time to jit: 0:01:25.550758
 
 ![](videos/7ccce241.gif)
+
+---
+
+![](https://github.com/andrei-herdt/playground/commit/c49259b7)
+
+num_steps:  0 eval/episode_reward:  0.12857331 eval/episode_reward_std:  0.20599352
+num_steps:  30310400 eval/episode_reward:  126.936935 eval/episode_reward_std:  103.64848
+num_steps:  60620800 eval/episode_reward:  108.58201 eval/episode_reward_std:  97.783
+time to jit: 0:01:26.454457 time to train: 0:26:44.189723
