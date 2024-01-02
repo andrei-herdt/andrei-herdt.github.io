@@ -188,7 +188,7 @@ time to train: 0:27:14.246793
 
 ---
 
-https://github.com/andrei-herdt/playground/commit/816e4453
+https://github.com/andrei-herdt/playground/commit/7ccce241
 
 num_steps:  0 eval/episode_reward:  0.0881857 eval/episode_reward_std:  0.11955748
 num_steps:  30310400 eval/episode_reward:  26.643467 eval/episode_reward_std:  38.780533
