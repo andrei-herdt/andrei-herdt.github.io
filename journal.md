@@ -303,3 +303,6 @@ Still not certain why actions should be scaled that heavily...
 |  2 |               0           |           0           |
 
 ![](videos/ff89e34.gif)
+
+#### Comment: 
+Learning rate is constant
