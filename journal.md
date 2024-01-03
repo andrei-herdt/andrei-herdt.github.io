@@ -8,6 +8,7 @@
 TODO:
 - [ ] Examine individual episodes
 - [ ] Plot learning curve
+- [ ] Add adaptive learning rate
 
 ## Experiment Log
 
@@ -283,5 +284,22 @@ Still not certain why actions should be scaled that heavily...
 
 [07ba7e1](https://github.com/andrei-herdt/playground/commit/07ba7e1)
 
+|    |   eval/episode_reward_std |   eval/episode_reward |
+|---:|--------------------------:|----------------------:|
+|  0 |               0.00174753  |           0.000421642 |
+|  1 |               0.00169392  |           0.000284473 |
+|  2 |               0.000467512 |           9.20232e-05 |
+
 ![](videos/07ba7e1.gif)
 
+---
+
+[ff89e34](https://github.com/andrei-herdt/playground/commit/ff89e34)
+
+|    |   eval/episode_reward_std |   eval/episode_reward |
+|---:|--------------------------:|----------------------:|
+|  0 |               0.00198029  |           0.000504582 |
+|  1 |               0.000184649 |           1.63849e-05 |
+|  2 |               0           |           0           |
+
+![](videos/ff89e34.gif)
