@@ -352,7 +352,7 @@ Learning rate is constant
 |  4 |                0.0029423  |           0.00101925  |
 |  5 |                0.00225211 |           0.000605955 |
 
-![video](videos/b1d4629.gif)
+![video](videos/video_b1d4629.gif)
 
 [md](metrics.md)
 
