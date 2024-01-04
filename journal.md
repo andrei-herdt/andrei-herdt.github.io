@@ -1,4 +1,4 @@
-# PPO training of quadrupedal walk
+# Training of quadrupedal walk on a GPU
 
 [Target performance](https://leggedrobotics.github.io/legged_gym/)
 
