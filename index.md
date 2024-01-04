@@ -1,2 +1,2 @@
-[Journal](/journal.md)
+[RL on GPU](/journal.md)
 
