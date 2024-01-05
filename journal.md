@@ -373,4 +373,6 @@ https://github.com/andrei-herdt/playground/commit/77df2a2
 time to jit: 0 days 00:17:14.625315
 time to train: 0 days 01:05:03.860158
 
-![](videos/video_77df2a2.gif)
+![](videos/77df2a2.gif)
+
+[data](data/77df2a2.md)
