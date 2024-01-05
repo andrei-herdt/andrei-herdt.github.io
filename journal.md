@@ -356,4 +356,21 @@ Learning rate is constant
 
 [md](metrics.md)
 
-<!-- [html](metrics.html) -->
+---
+
+[77df2a2](
+https://github.com/andrei-herdt/playground/commit/77df2a2
+)
+
+|    |   eval/episode_reward_std |   eval/episode_reward |
+|---:|--------------------------:|----------------------:|
+|  0 |                0.00271081 |           0.000863154 |
+|  1 |                0.00126802 |           0.000355364 |
+|  2 |                0.00300228 |           0.000775326 |
+|  3 |                0.00168058 |           0.000461263 |
+|  4 |                0.00404578 |           0.00153213  |
+|  5 |                0.00406854 |           0.00131884  |
+time to jit: 0 days 00:17:14.625315
+time to train: 0 days 01:05:03.860158
+
+![](videos/video_77df2a2.gif)
