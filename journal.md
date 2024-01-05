@@ -354,9 +354,7 @@ Learning rate is constant
 
 ---
 
-[77df2a2](
-https://github.com/andrei-herdt/playground/commit/77df2a2
-)
+[77df2a2](https://github.com/andrei-herdt/playground/commit/77df2a2)
 
 |    |   eval/episode_reward_std |   eval/episode_reward |
 |---:|--------------------------:|----------------------:|
@@ -366,6 +364,7 @@ https://github.com/andrei-herdt/playground/commit/77df2a2
 |  3 |                0.00168058 |           0.000461263 |
 |  4 |                0.00404578 |           0.00153213  |
 |  5 |                0.00406854 |           0.00131884  |
+
 time to jit: 0 days 00:17:14.625315
 time to train: 0 days 01:05:03.860158
 
