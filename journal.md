@@ -391,13 +391,13 @@ time to train: 0 days 01:05:47.758038
 
 ![](videos/481cb22.gif)
 
-[](data/481cb22.md)
+[data](data/481cb22.md)
 
 ---
 
-[](https://github.com/andrei-herdt/playground/commit/e23d5ca)
+[commit](https://github.com/andrei-herdt/playground/commit/e23d5ca)
 
 ![](videos/e23d5ca.gif)
 
-[](data/e23d5ca.md)
+[data](data/e23d5ca.md)
 
