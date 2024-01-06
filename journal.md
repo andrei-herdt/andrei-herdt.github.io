@@ -389,7 +389,7 @@ time to train: 0 days 01:05:03.860158
 time to jit: 0 days 00:17:43.133801
 time to train: 0 days 01:05:47.758038
 
-[](videos/481cb22.gif)
+![](videos/481cb22.gif)
 
 [](data/481cb22.md)
 
@@ -397,7 +397,7 @@ time to train: 0 days 01:05:47.758038
 
 [](https://github.com/andrei-herdt/playground/commit/e23d5ca)
 
-[](videos/e23d5ca.gif)
+![](videos/e23d5ca.gif)
 
 [](data/e23d5ca.md)
 
