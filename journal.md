@@ -9,6 +9,7 @@ TODO:
 - [ ] Examine individual episodes
 - [ ] Plot learning curve
 - [ ] Add adaptive learning rate
+- [ ] Automate video and data generation
 
 ## Experiment Log
 
@@ -371,3 +372,32 @@ time to train: 0 days 01:05:03.860158
 ![](videos/77df2a2.gif)
 
 [data](data/77df2a2.md)
+
+---
+
+[481cb22](https://github.com/andrei-herdt/playground/commit/481cb22)
+
+|    |   eval/episode_reward_std |   eval/episode_reward |
+|---:|--------------------------:|----------------------:|
+|  0 |                0.00418988 |           0.00108798  |
+|  1 |                0.00152198 |           0.000446873 |
+|  2 |                0.00306967 |           0.000730768 |
+|  3 |                0.00180145 |           0.000505169 |
+|  4 |                0.00265688 |           0.000897551 |
+|  5 |                0.00601595 |           0.00135506  |
+
+time to jit: 0 days 00:17:43.133801
+time to train: 0 days 01:05:47.758038
+
+[](videos/481cb22.gif)
+
+[](data/481cb22.md)
+
+---
+
+[](https://github.com/andrei-herdt/playground/commit/e23d5ca)
+
+[](videos/e23d5ca.gif)
+
+[](data/e23d5ca.md)
+
